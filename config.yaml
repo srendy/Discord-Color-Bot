@@ -1,9 +1,9 @@
-BotToken: "YOUR_BOT_TOKEN"
-InviteLink: "https://discord.gg/V5vaWwr"
+BotToken: "YNzEzMDgxNjg0NDkyMjg4MDYx.Xsbshg.vl9Lm1g7flgxRwpG98nhG_TVy14"
+InviteLink: "https://discord.gg/kyevGe"
 AutoKickOnServer: {
-  "ServerID": "ServerName"
+  "ServerID": "dinero"
 }
-SpamChannel: "Channel_ID"
+SpamChannel: "713137718565273631"
 Admins: {
   "134750562062303232": "Infi",
   "UserID": "Username",
